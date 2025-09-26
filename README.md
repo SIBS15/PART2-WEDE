@@ -13,9 +13,12 @@ A responsive website for the Green Earth Foundation, designed for environmental 
 
 ## Screenshots
 Screenshots taken using DevTools for:
-- Desktop: `screenshots/desktop-home.png` — Home page on desktop
-- Tablet: `screenshots/tablet-services.png` — Services page on tablet
-- Mobile: `screenshots/mobile-contact.png` — Contact page on mobile
+- Desktop: `screenshots/desktop-home.png` — Home page on desktop <img width="1919" height="1079" alt="desktop" src="https://github.com/user-attachments/assets/4ca04b61-eab2-41c8-9d22-2f164b2ae7b4" />
+
+- Tablet: `screenshots/tablet-services.png` — Services page on tablet <img width="1919" height="1079" alt="tablet" src="https://github.com/user-attachments/assets/6d5de2ef-c45a-426a-b896-6ba7a03919a6" />
+
+- Mobile: `screenshots/mobile-contact.png` — Contact page on mobile <img width="1919" height="1079" alt="mobile" src="https://github.com/user-attachments/assets/87593235-5824-4643-ae5c-ad7ddd1a8e3d" />
+
 
 ## Filenames & Descriptions
 - `desktop-home.png`: Home page viewed on desktop (Chrome)
